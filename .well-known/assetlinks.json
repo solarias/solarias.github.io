@@ -4,7 +4,7 @@
     "target": {
       "namespace": "android_app",
       "package_name": "xyz.appmaker.rapuli",
-      "sha256_cert_fingerprints": ["27:E0:D2:52:35:34:A6:90:B2:98:ED:49:99:A2:81:C7:9A:75:60:17:9E:BF:6D:91:AB:0F:76:79:C7:DD:3F:A2"]
+      "sha256_cert_fingerprints": ["27:E0:D2:52:35:34:A6:90:B2:98:ED:49:99:A2:81:C7:9A:75:60:17:9E:BF:6D:91:AB:0F:76:79:C7:DD:3F:A2","E4:CC:E9:7B:18:81:B9:BF:DB:CE:4B:53:47:17:14:C5:AA:87:82:D9:EA:83:53:3F:D3:85:EB:52:5D:3D:2D:B0"]
     }
   }
 ]
